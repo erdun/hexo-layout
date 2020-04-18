@@ -1,0 +1,6 @@
+[submodule "themes/hexo-theme-ayer"]
+	path = themes/hexo-theme-ayer
+	url = git://github.com/erdun/hexo-theme-ayer.git
+[submodule "source"]
+	path = source
+	url = git://github.com/erdun/blog.git
